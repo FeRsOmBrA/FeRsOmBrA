@@ -7,3 +7,4 @@ ScrollReveal().reveal('.homeproduct');
 ScrollReveal().reveal('.newreader' , {delay: 500});
 ScrollReveal().reveal('.banner1' , {delay: 500});
 ScrollReveal().reveal('.banner2' , {delay: 500});
+ScrollReveal().reveal('.social' , {delay: 500});
