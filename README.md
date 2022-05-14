@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FeRsOmBrA
 - 👀 I’m interested in ... Code learning
-- 🌱 I’m currently learning ... Html,  CSS, Javascript, Python, R, AI systems
+- 🌱 I’m currently learning ... Html,  CSS, Javascript, Python, R, AI systems, React
 
 
 <!---
